@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Github/BruteForce/xTile/Content/City_Music.mp3</SourceFile>
+  <SourceTime>2015-09-17T05:33:16-06:00</SourceTime>
+  <DestFile>D:/Github/BruteForce/xTile/Content/bin/Windows/City_Music.xnb</DestFile>
+  <DestTime>2015-10-31T23:05:43.0138285-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2015-04-29T11:14:44-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2015-04-29T11:14:44-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Github/BruteForce/xTile/Content/bin/Windows/City_Music.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
